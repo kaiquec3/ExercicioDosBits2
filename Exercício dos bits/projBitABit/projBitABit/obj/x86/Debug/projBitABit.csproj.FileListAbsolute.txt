@@ -1,0 +1,26 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\bin\Debug\projBitABit.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\bin\Debug\projBitABit.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Form1.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Properties.Resources.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csproj.GenerateResource.Cache
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csprojResolveAssemblyReference.cache
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\bin\Debug\projBitABit.exe
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\bin\Debug\projBitABit.pdb
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csprojAssemblyReference.cache
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Form1.resources
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Properties.Resources.resources
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csproj.GenerateResource.cache
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csproj.CoreCompileInputs.cache
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\obj\x86\Debug\projBitABit.exe
+C:\Users\altas\Desktop\projBitABit2-main\projBitABit\projBitABit\obj\x86\Debug\projBitABit.pdb
+D:\Exercício dos bits\projBitABit\projBitABit\bin\Debug\projBitABit.exe
+D:\Exercício dos bits\projBitABit\projBitABit\bin\Debug\projBitABit.pdb
+D:\Exercício dos bits\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csprojAssemblyReference.cache
+D:\Exercício dos bits\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Form1.resources
+D:\Exercício dos bits\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Properties.Resources.resources
+D:\Exercício dos bits\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csproj.GenerateResource.cache
+D:\Exercício dos bits\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csproj.CoreCompileInputs.cache
+D:\Exercício dos bits\projBitABit\projBitABit\obj\x86\Debug\projBitABit.exe
+D:\Exercício dos bits\projBitABit\projBitABit\obj\x86\Debug\projBitABit.pdb
